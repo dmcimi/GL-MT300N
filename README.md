@@ -1,3 +1,9 @@
+[![Build OpenWrt](https://github.com/dmcimi/GL-MT300N/actions/workflows/build-openwrt.yml/badge.svg)](https://github.com/dmcimi/GL-MT300N/actions/workflows/build-openwrt.yml)
+
+
+
+
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
